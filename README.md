@@ -71,6 +71,9 @@ Deployment
 Frontend deployed with Vercel
 Backend deployed with Render
 
+## Live Demo: https://ai-study-assistant-lac.vercel.app/
+
+
 ## Author
 
 Haida Makouangou- UNCC
