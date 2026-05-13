@@ -46,7 +46,7 @@ ai-study-assistant/
 │
 ├── .gitignore
 └── README.md
-
+```
 ## Installation
 
 ### Backend Setup
@@ -56,14 +56,15 @@ cd backend
 source venv/Scripts/activate
 pip install -r requirements.txt
 python app.py
+```
 
-Frontend Setup
+## Frontend Setup
 cd frontend
 npm install
 npm run dev
 Environment Variables
 
-Create a .env file inside backend/:
+## Create a .env file inside backend/:
 
 HF_API_KEY=your_huggingface_api_key
 Deployment
